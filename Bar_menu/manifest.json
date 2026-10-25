@@ -1,0 +1,17 @@
+{
+  "name": "BARドリンク学習",
+  "short_name": "BAR学習",
+  "description": "BARのドリンクメニューを覚えるための個人用学習アプリ",
+  "lang": "ja",
+  "start_url": "./#/menu",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0b09",
+  "theme_color": "#0d0b09",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
